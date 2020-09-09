@@ -61,6 +61,6 @@ server {
 ```
 
 ##### Demo
-link: https://portfolio_blog.webvost.info/?page=2  
+link: https://portfolio_blog.webvost.info
 login: testuser@g.com  
 password: password
